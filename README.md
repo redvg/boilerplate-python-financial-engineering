@@ -1,9 +1,10 @@
-# playground-python-financial-engineering
+# boilerplate-python-financial-engineering
 Financial engineering with Python boilerplate
 
 ## 1 intro
 prereqs: latex, charing.. \
-pricing call with bsm monte carlo sim
+lab: pricing call with bsm monte carlo sim\
+lab: historical volatility + data import&plot\
 
 
 
