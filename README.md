@@ -3,11 +3,11 @@ Financial engineering with Python boilerplate
 
 
 ## [intro](intro.ipynb)
-* prereqs: latex, charting.. \
-* pricing call with bsm monte carlo sim\
+* prereqs: latex, charting..
+* pricing call with bsm monte carlo sim
 * historical volatility + data import&plot
-- foo
-- bar
+    - foo
+    - bar
 
 * perfomance considerations
 
