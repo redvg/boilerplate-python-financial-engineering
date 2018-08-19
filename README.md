@@ -16,6 +16,13 @@ Financial engineering with Python boilerplate
     - looping with numpy, numexpr, multi-thread
 
 ## [implied volatility](implied-volatility.ipynb)
+* imports HDFS mkt data of VSTOXX futures and calls on 'em
+* implements python functions under bsm
+    - call price
+    - call vega
+    - newton estimate of implied volatility
+* calculates implied volatity smiles for set of maturities
+* some useful pandas stuff
 
 
 
