@@ -24,6 +24,8 @@ Financial engineering with Python boilerplate
 * calculates implied volatity smiles for set of maturities
 * some useful pandas stuff
 
+## [monte carlo](monte-carlo.ipynb)
+
 
 
 
