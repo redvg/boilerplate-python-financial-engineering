@@ -25,7 +25,9 @@ Financial engineering with Python boilerplate
 * some useful pandas stuff
 
 ## [monte carlo](monte-carlo.ipynb)
-
+* valuing eu call under bsm
+* sde of the process + euler discretization
+* 3 implementations: pure py + numpy vectorized x2
 
 
 
